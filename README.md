@@ -4,11 +4,6 @@ This project is a responsive landing page for **Happy Dog Bites**, a premium dog
 
 ---
 
-## Technical Test Submission
-
-**Task:**  
-Build this landing page section and send the link or code files. Also, provide a detailed explanation of the code you use.
-
 **Tools Used:**
 
 - **HTML & CSS**: To demonstrate fundamental frontend skills and semantic, accessible markup.
@@ -17,12 +12,6 @@ Build this landing page section and send the link or code files. Also, provide a
 
 **Live Demo:**  
 [https://gem-commerce-landing.vercel.app/](https://gem-commerce-landing.vercel.app/)
-
-**How to Submit:**
-
-- Reply to the test email and cc: [justin@gempages.help](mailto:justin@gempages.help)
-- You may use any tools you are familiar with (Shopify, WordPress, GitHub, Visual Studio, etc.)
-- **Deadline:** The test must be completed within 1 day of receiving the email.
 
 ---
 
