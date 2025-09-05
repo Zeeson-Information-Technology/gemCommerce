@@ -60,11 +60,3 @@ This project is a responsive landing page for **Happy Dog Bites**, a premium dog
 4. Or visit the [live demo](https://gem-commerce-landing.vercel.app/) to see the deployed result.
 
 ---
-
-**Note:**  
-This project is static and does not require any build tools or frameworks. Simply open the HTML file to view or deploy.
-
-**For the technical test:**
-
-- Submit your code and a detailed explanation as instructed above.
-- See the live demo for a working example.
